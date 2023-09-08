@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Owurun Odoya and I am a student of artificial intelligence and machine learning at the University of London.
 - 👀 I’m interested in Artificial in healthcare, especially ophthalmology because I have a doctor of optometry degree and I currently practice in a hospital.
 - 🌱 I’m currently learning data science and how it is useful to machine learning pipelines.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on data science projects in public health and opthalmology
 - 📫 You can reach me on LinkedIn www.linkedin.com/in/owurun-odoya
 
 <!---
